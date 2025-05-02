@@ -11,21 +11,21 @@
 ### 🔹 [📈 Sales Overview Dashboard](https://github.com/SalmaElhila/Sales_Overview_Power-BI_Project)
 A full sales analysis dashboard with KPIs such as total sales, returns, and customer insights.
 
-![Sales Overview](./Sales_Overview_Power-BI_Project/Project%2002_Main.png)
+![Sales Overview](https://github.com/SalmaElhila/Sales_Overview_Power-BI_Project/blob/main/Project%2002_Main.png)
 
 ---
 
 ### 🔹 [🧠 Data Professionals Survey](https://github.com/SalmaElhila/Data_Professionals_Survey_PowerBI)
 A clean dashboard analyzing salaries, roles, favorite programming languages, and global distribution of data professionals.
 
-![Data Professionals](./Data_Professionals_Survey_PowerBI/Project%2001.png)
+![Data Professionals](https://github.com/SalmaElhila/Data_Professionals_Survey_PowerBI/Project%2001.png)
 
 ---
 
 ### 🔹 [🛍️ Sales Dashboard – Project 03](https://github.com/SalmaElhila/Sales_Dashboard_PowerBI_Project_03)
 A dark-themed dashboard tracking key sales metrics, with dynamic filters and interactive charts.
 
-![Sales Dashboard](./Sales_Dashboard_PowerBI_Project_03/PostLinkedIn.PNG)
+![Sales Dashboard](https://github.com/SalmaElhila/Sales_Dashboard_PowerBI_Project_03/PostLinkedIn.PNG)
 
 ---
 
