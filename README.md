@@ -1,31 +1,51 @@
-# Salma-s_Power BI Portfolio
-Welcome to my Power BI project portfolio! I'm a logistics and data enthusiast passionate about turning raw data into powerful, visual insights.
+# 👋 Hello, I'm Salma Elhila
 
-As a Supply Analyst and graduate in Logistics Management, I’ve worked on projects related to the field using tools like Power BI, Excel, SAP, DAX, and Power Query.
+🎓 Logistics graduate with a strong interest in analytics and data visualization  
+💼 Currently working as a Supply Analyst at Capgemini Engineering  
+📊 I use **Power BI**, **Excel**, and **Figma** to build interactive dashboards that solve real-world business problems
+
+---
 
 ## 🚀 Featured Projects
-### 📌 [Project name1] link
-- **Objective:** 
-- **Tools:** Power BI, DAX, Power Query
-- **Highlights:**
 
-### 📌 [Project name2] link
-- **Objective:** 
-- **Tools:** Power BI, DAX, Power Query
-- **Highlights:** 
+### 🔹 [📈 Sales Overview Dashboard](https://github.com/SalmaElhila/Sales_Overview_Power-BI_Project)
+A full sales analysis dashboard with KPIs such as total sales, returns, and customer insights.
 
-### 📌 [Project name3] link
-- **Objective:** 
-- **Tools:** Power BI, DAX, Power Query
-- **Highlights:** 
+![Sales Overview](./Sales_Overview_Power-BI_Project/Project%2002_Main.png)
 
+---
 
+### 🔹 [🧠 Data Professionals Survey](https://github.com/SalmaElhila/Data_Professionals_Survey_PowerBI)
+A clean dashboard analyzing salaries, roles, favorite programming languages, and global distribution of data professionals.
 
-## 📚 About Me
-- 🎓 Graduate in Logistics Management – ENCG Marrakech  
-- 🧠 Passionate about data, supply chain, and continuous improvement  
-- 🛠 Tools: Power BI, Excel, DAX, Power Query
+![Data Professionals](./Data_Professionals_Survey_PowerBI/Project%2001.png)
 
-## 📬 Let’s Connect!
-📧 [elhilasalma@gmail.com](mailto:elhilasalma@gmail.com)  
-💼 [LinkedIn – Salma Elhila](https://www.linkedin.com/in/your-link-here)
+---
+
+### 🔹 [🛍️ Sales Dashboard – Project 03](https://github.com/SalmaElhila/Sales_Dashboard_PowerBI_Project_03)
+A dark-themed dashboard tracking key sales metrics, with dynamic filters and interactive charts.
+
+![Sales Dashboard](./Sales_Dashboard_PowerBI_Project_03/PostLinkedIn.PNG)
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI** – DAX, Power Query, KPIs
+- **Excel** – Data cleaning, formulas
+- **Figma** – Layout & UI inspiration
+- **SAP** – Logistics processes
+- **Python & SQL** – (learning in progress)
+
+---
+
+## 💬 Let’s Connect!
+
+📧 elhilasalma@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+🔗 [GitHub](https://github.com/SalmaElhila)
+
+---
+
+*"Turning raw data into impactful decisions – one dashboard at a time."*
+
